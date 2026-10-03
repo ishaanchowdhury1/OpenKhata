@@ -4,3 +4,4 @@ pydantic>=2
 python-dotenv
 openai-whisper
 torch
+pytest

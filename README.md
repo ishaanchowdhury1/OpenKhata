@@ -46,3 +46,7 @@ Whisper medium can mishear Bengali/Hindi/English code-mixed speech and can produ
 ## Data
 
 Customer data is stored locally in data/openkhata.db. The data directory is ignored by Git.
+
+## Tests
+
+    python -m pytest tests -q
