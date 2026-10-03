@@ -1,0 +1,6 @@
+streamlit>=1.40
+ollama
+pydantic>=2
+python-dotenv
+openai-whisper
+torch
